@@ -1,0 +1,8 @@
+HTTP/1.1 206 Partial Content
+Date: Tue, 17 Oct 2017 00:50:10 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Last-Modified: Fri, 18 Nov 2016 07:57:04 GMT
+ETag: "11239-5418ea6d9b400"
+Accept-Ranges: bytes
+Content-Length: 3855
+Content-Range: bytes 66346-70200/70201
